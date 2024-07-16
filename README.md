@@ -1,4 +1,5 @@
 Title - Analyzing Spotify Music Data
+
 Spotify is an audio streaming platform that provides DRM-restricted music, videos, and podcasts from record labels and media companies. It has more than 50 million tracks which user can browse using various parameters like artists, album, genre, or via playlists.
 
 Data Files
